@@ -1,1 +1,1 @@
-# Face-recognition
+# Daily and Sports Activity clustering
